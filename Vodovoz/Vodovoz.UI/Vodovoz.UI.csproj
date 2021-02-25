@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Vodovoz.BL\Vodovoz.DAL.csproj" />
+    <ProjectReference Include="..\Vodovoz.BL\Vodovoz.BL.csproj" />
   </ItemGroup>
 
 </Project>
