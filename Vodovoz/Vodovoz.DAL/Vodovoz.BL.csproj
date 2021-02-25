@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Catel.MVVM" Version="5.12.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Vodovoz.BL\Vodovoz.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
